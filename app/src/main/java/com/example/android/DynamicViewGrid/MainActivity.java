@@ -1,4 +1,4 @@
-package com.example.android.cszadatak;
+package com.example.android.DynamicViewGrid;
 
 import android.content.Context;
 import android.content.Intent;

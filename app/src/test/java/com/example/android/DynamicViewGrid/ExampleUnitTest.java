@@ -1,4 +1,4 @@
-package com.example.android.cszadatak;
+package com.example.android.DynamicViewGrid;
 
 import org.junit.Test;
 
